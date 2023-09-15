@@ -19,7 +19,7 @@ I am passionate about the web and all things technology. Creative Software Engin
 
 I’m looking to collaborate on anything and everything! I love meeting new people and learning new technologies. Just ask away!
 
-Fun Fact: LOTR🧙‍♂️ and Harry Potter⚡️ frequenty run on repeat. Just ask my pup.
+Fun Fact: LOTR🧙‍♂️ and Harry Potter⚡️ frequenty run on repeat. Just ask my pup!🤣
 
 ## Technologies
 <div align="center">
