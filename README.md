@@ -7,7 +7,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://nichorton.dev" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white;" />
+<img src=https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>
 
 Software Engineer 💻 | Dog Owner 🐶 | Fitness 🏋️‍♂️ | Coffee ☕️ | “Not all those who wander are lost” 💍
