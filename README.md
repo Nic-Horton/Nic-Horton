@@ -16,7 +16,7 @@ Software Engineer 💻 | Dog Owner 🐶 | Fitness 🏋️‍♂️ | Coffee ☕�
 Ever since I was a child, I've had a knack for problem-solving – be it tackling challenges in video games or finding ways to streamline daily tasks. This drive to make things better led me to the world of software engineering. It's here that I get to channel my passion for improvement into creating more efficient solutions.
 
 ### A little about me!
-I am Full-Stack Engineer who is currently attending DigitalCrafts Full Stack Development Bootcamp! 
+I am Full-Stack Engineer who completed the DigitalCrafts Web Development Bootcamp in November of 2023! 
 
 I am passionate about the web and all things technology. Creative Software Engineer with the ability to pick up new languages and technologies as needed. I primarily enjoy working in a team, sharing ideas, learning and problem-solving.
 
