@@ -13,7 +13,7 @@
 Software Engineer 💻 | Dog Owner 🐶 | Fitness 🏋️‍♂️ | Coffee ☕️ | “Not all those who wander are lost” 💍
 <br />
 
-Ever since I was a child, I've had a knack for problem-solving – be it tackling challenges in video games or finding ways to streamline daily tasks. This drive to make things better led me to the world of software engineering. It's here that I get to channel my passion for improvement into creating more efficient solutions.
+It all started with Legos. Legos allowed me to develop my interest for building and creating things. As I got older I began tackling challenges in video games or finding ways to streamline daily tasks. This eventually led me to the world of software engineering. It's here that I get to channel my passion to solve problems and build what I can imagine.
 
 ### A little about me!
 I am Full-Stack Engineer who completed DigitalCrafts Web Development Bootcamp in November of 2023! 
@@ -22,7 +22,7 @@ I am passionate about the web and all things technology. Creative Software Engin
 
 I’m looking to collaborate on anything and everything! I love meeting new people and learning new technologies. Just ask away!
 
-Fun Fact: LOTR🧙‍♂️ and Harry Potter⚡️ frequenty run on repeat. Just ask my pup!🤣
+Fun Fact: I enjoy LOTR🧙‍♂️ and Harry Potter⚡️. I'm a dog dad🐶.
 
 ## Technologies
 <div align="left">
@@ -34,9 +34,10 @@ Fun Fact: LOTR🧙‍♂️ and Harry Potter⚡️ frequenty run on repeat. Just
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="45" />
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="45" />  
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="45" />
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="45" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" />
 </div> 
 
 <br />
